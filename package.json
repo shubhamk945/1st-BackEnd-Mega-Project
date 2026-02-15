@@ -1,0 +1,16 @@
+{
+  "name": "backend-1st-mega-project",
+  "version": "1.0.0",
+  "description": "A Backend Maga Project",
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Shubham",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
